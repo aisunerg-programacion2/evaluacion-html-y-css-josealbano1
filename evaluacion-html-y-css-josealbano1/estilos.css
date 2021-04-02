@@ -1,0 +1,29 @@
+.contenedor{
+   background: #50ffff;
+   text-align: center;
+}
+h2{
+    background: lightskyblue;
+}
+
+.imagen-1{
+    width:300px;
+}
+
+.inforacion-personal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+.EDUCACION{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.experiencia-laboral{
+    display:flex;
+    flex-direction: column;
+}
